@@ -6,7 +6,7 @@
       <field name="inherit_id" ref="crm.crm_lead_view_form"/>
       <field name="arch" type="xml">
         <xpath expr="//notebook" position="inside">
-          <page string="Additional Information">
+          <page string="Kuesioner">
 
             <group string="Type of business">
               <field name="business_type_id" />
